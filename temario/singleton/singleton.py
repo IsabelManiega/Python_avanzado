@@ -1,0 +1,1 @@
+shared_variable = "Variable compartida"
